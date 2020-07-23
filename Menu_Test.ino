@@ -1,4 +1,4 @@
-// Ashlee Jones
+// Ashlee J
 // 23rd of July, 2020
 // Testing a Menu system after testing on the Arduino Uno
 
